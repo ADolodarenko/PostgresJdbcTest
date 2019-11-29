@@ -11,7 +11,7 @@ public class PostgreSqlCommander implements SqlCommander {
   private static final String DB_DRIVER = "org.postgresql.Driver";
   private static final String DB_URL = "jdbc:postgresql://localhost:5433/testdb";
   private static final String DB_USERNAME = "dolodarenko";
-  private static final String DB_PASSWORD = "killallhumas";
+  private static final String DB_PASSWORD = "xxx";
   private static final String MESSAGE_OPEN_SUCCESS = "Opened connection.";
   private static final String MESSAGE_OPEN_EXCEPTION = "Couldn't open connection: ";
   private static final String MESSAGE_CLOSE_SUCCESS = "Closed connection.";
